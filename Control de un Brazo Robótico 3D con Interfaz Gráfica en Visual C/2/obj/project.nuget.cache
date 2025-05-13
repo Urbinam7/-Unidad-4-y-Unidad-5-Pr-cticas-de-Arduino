@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "B39LLNb7R70=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel Angel Urbina\\Documents\\HMI brazo\\2\\2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.android-arm.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.android-arm64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.android-x64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.android-x86.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-arm.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-arm64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-bionic-x64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-musl-arm.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-musl-arm64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-musl-x64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.linux-x64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.maccatalyst-x64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.osx-arm64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\10.0.0-preview.2.25163.2\\runtime.osx-x64.runtime.native.system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "C:\\Users\\Miguel Angel Urbina\\.nuget\\packages\\system.io.ports\\10.0.0-preview.2.25163.2\\system.io.ports.10.0.0-preview.2.25163.2.nupkg.sha512"
+  ],
+  "logs": []
+}
